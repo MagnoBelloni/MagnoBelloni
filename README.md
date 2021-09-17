@@ -1,10 +1,10 @@
 <img src="https://github.com/MagnoBelloni/MagnoBelloni/blob/master/phone-unsplash.jpg" width="auto" />
 
-:smiley:Olá meu nome é Magno, eu tenho 20 anos e sou desenvolvedor Fullstack.
+:smiley:Olá meu nome é Magno, eu tenho 21 anos e sou desenvolvedor Fullstack.
 
 :video_game: Apaixonado por jogos e tecnologia.
 
-:computer:Tenho 2 anos de experiencia com programação, trabalhando com .NET para Web.
+:computer:Tenho 3 anos de experiencia com programação trabalhando com a plataforma .NET, atualmente trabalho com microserviços de uma plataforma de Conta digital usada em todo Brasil.
 
 ![Magno Belloni github stats](https://github-readme-stats.vercel.app/api?username=MagnoBelloni&show_icons=true&theme=radical)
 
