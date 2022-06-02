@@ -1,6 +1,6 @@
 <img src="https://github.com/MagnoBelloni/MagnoBelloni/blob/master/phone-unsplash.jpg" width="auto" />
 
-:smiley:Olá meu nome é Magno, eu tenho 21 anos e sou desenvolvedor Fullstack.
+:smiley:Olá meu nome é Magno, eu tenho 21 anos e sou desenvolvedor Backend.
 
 :video_game: Apaixonado por jogos e tecnologia.
 
