@@ -1,10 +1,25 @@
 <img src="https://github.com/MagnoBelloni/MagnoBelloni/blob/master/phone-unsplash.jpg" width="auto" />
 
-:smiley:Olá meu nome é Magno, eu tenho 21 anos e sou desenvolvedor Backend.
+:smiley:Olá meu nome é Magno, eu tenho 24 anos e sou desenvolvedor Backend.
 
-:video_game: Apaixonado por jogos e tecnologia.
+:video_game: Apaixonado por jogos, música e tecnologia.
 
-:computer:Tenho 3 anos de experiencia com programação trabalhando com a plataforma .NET, atualmente trabalho com microserviços de uma plataforma de Conta digital usada em todo Brasil.
+:computer:Tenho 6 anos de experiencia com programação trabalhando com a plataforma .NET. Utilizando diferentes serviços como:
+- SQL Server
+- MySQL
+- MongoDB
+- CosmosDB
+- Redis
+- ElasticSearch
+- RabbitMQ
+- AWS SQS
+- Azure ServiceBus
+- AWS SNS
+- AWS S3
+- AWS Lambda
+- Microserviços
+
+Já atuei com tecnologia em diferentes setores como bancos, casas de cambio, ONGs, fintechs, serviços de marketing.
 
 ![Magno Belloni github stats](https://github-readme-stats.vercel.app/api?username=MagnoBelloni&show_icons=true&theme=radical)
 
